@@ -12,7 +12,7 @@
 
 ## Project Scheme:
 
-![Project Scheme](Images/Project_Scheme.png)
+![Project Scheme](Images/scheme.png)
 
 ## 1.- Business Understanding
 
