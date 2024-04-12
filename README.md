@@ -10,6 +10,10 @@
 
 - Floris De Feyter: floris.defeyter@kuleuven.be
 
+## Project Scheme:
+
+![Project Scheme](Images/Project_Scheme.png)
+
 ## 1.- Business Understanding
 
 <div align="justify">In the expansive realm of human-machine interaction, the challenge of discerning human emotions and levels of attentiveness is crucial, particularly in critical settings such as driving. As we advance deeper into the era of automation and artificial intelligence, incorporating Facial Expression Recognition (FER) technology into automotive systems emerges as a promising strategy to boost safety and enhance communication between drivers and their vehicles. Utilizing the latest in computer vision and deep learning, FER technology can fundamentally transform our interaction with automotive technology, leading to safer roadways and more intuitive driving experiences.</div>
@@ -66,6 +70,31 @@ The models used in this project are pre-trained on the ImageNet dataset for obje
 
 ## 4.- Modelling
 
+### 4.1- Vision Transformer for Facial Emotion Recognition(ViT)
+![Vision Transformers](Images/ViT.gif)
+
 ## 5.- Evaluation
 
 ## 6.- Deployment
+
+## 7.- Project References
+
+This project is based on several research papers and code repositories that are pivotal for the advancement of attention mechanisms and robustness in artificial intelligence models. Below are the key references used:
+
+### 7.1 Academic Articles
+
+1. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). "Attention Is All You Need." *Neural Information Processing Systems (NIPS)*. Available at: [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
+
+2. Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale." *International Conference on Learning Representations*. Available at: [https://openreview.net/forum?id=YicbFdNTTy](https://openreview.net/forum?id=YicbFdNTTy)
+
+3. Li, S., Zhao, W., & Roy-Chowdhury, A. K. (2021). "Vision Transformers for Facial Emotion Recognition." *Conference on Computer Vision and Pattern Recognition*. Link not available.
+
+### 7.2 GitHub Repositories
+
+- [Vision Transformers for Facial Emotion Recognition](https://github.com/kode-git/vfer): A repository implementing Vision Transformers for facial emotion recognition.
+
+- [Imagenet -C ](https://github.com/hendrycks/robustness): This repository contains implementations and techniques to enhance the robustness of machine learning models through data augmentation.
+
+
+
+
