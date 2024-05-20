@@ -66,12 +66,20 @@ The models used in this project are pre-trained on the ImageNet dataset for obje
 
 ## 4.- Modelling
 
-### 4.1- Vision Transformer for Facial Emotion Recognition(ViT)
-![Vision Transformers](Images/ViT.gif)
+## Modelling
+We utilized the VGG-16 architecture for our emotion classification model. Below are the notebooks used in this stage:
+
+### Notebooks:
+
+| Name                                | Description                                                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| on_AffectNetFinal-Blurring-lv4.ipynb | Implements and trains the VGG-16 architecture using data augmentation techniques with blurring to enhance the model's robustness against image variations. |
+| on_AffectNet-Final-nonblur.ipynb    | Details the implementation and training of VGG-16 without blurring techniques, providing a comparison point to evaluate the effectiveness of data augmentation with blurring. |
+| VGG16_Final_VSC_Server.ipynb        | Consolidates the final results of the VGG-16 training, including performance metrics and visualization of the results.                |
+
 
 ## 5.- Evaluation
 
-## 6.- Deployment
 
 ## 7.- Project References
 
