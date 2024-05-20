@@ -10,10 +10,6 @@
 
 - Floris De Feyter: floris.defeyter@kuleuven.be
 
-## Project Scheme:
-
-![Project Scheme](Images/scheme.png)
-
 ## 1.- Business Understanding
 
 <div align="justify">In the expansive realm of human-machine interaction, the challenge of discerning human emotions and levels of attentiveness is crucial, particularly in critical settings such as driving. As we advance deeper into the era of automation and artificial intelligence, incorporating Facial Expression Recognition (FER) technology into automotive systems emerges as a promising strategy to boost safety and enhance communication between drivers and their vehicles. Utilizing the latest in computer vision and deep learning, FER technology can fundamentally transform our interaction with automotive technology, leading to safer roadways and more intuitive driving experiences.</div>
