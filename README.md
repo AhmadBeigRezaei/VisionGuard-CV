@@ -77,16 +77,17 @@ We utilized the VGG-16 architecture for our emotion classification model. Below 
 | on_AffectNetFinal-Blurring-lv4.ipynb | Implements and trains the VGG-16 architecture using data augmentation techniques with blurring to enhance the model's robustness against image variations. |
 | on_AffectNet-Final-nonblur.ipynb    | Details the implementation and training of VGG-16 without blurring techniques, providing a comparison point to evaluate the effectiveness of data augmentation with blurring. |
 | VGG16_Final_VSC_Server.ipynb        | Consolidates the final results of the VGG-16 training, including performance metrics and visualization of the results.                |
+| VGG16_BinarryClassification_AffNetBinary.ipynb   |  Implements and trains the VGG-16 architecture on binary classification task of AffNetBinary Dataset. |
 
 
 ## 5.- Evaluation
+| Inferance.ipynb        | Load our trained models from saved .pth files and make inferance of the model.        |
 
-
-## 7.- Project References
+## 6.- Project References
 
 This project is based on several research papers and code repositories that are pivotal for the advancement of attention mechanisms and robustness in artificial intelligence models. Below are the key references used:
 
-### 7.1 Academic Articles
+### 6.1 Academic Articles
 
 1. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). "Attention Is All You Need." *Neural Information Processing Systems (NIPS)*. Available at: [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
 
@@ -94,7 +95,7 @@ This project is based on several research papers and code repositories that are 
 
 3. Li, S., Zhao, W., & Roy-Chowdhury, A. K. (2021). "Vision Transformers for Facial Emotion Recognition." *Conference on Computer Vision and Pattern Recognition*. Link not available.
 
-### 7.2 GitHub Repositories
+### 6.2 GitHub Repositories
 
 - [Vision Transformers for Facial Emotion Recognition](https://github.com/kode-git/vfer): A repository implementing Vision Transformers for facial emotion recognition.
 
