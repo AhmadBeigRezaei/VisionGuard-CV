@@ -81,6 +81,8 @@ We utilized the VGG-16 architecture for our emotion classification model. Below 
 
 
 ## 5.- Evaluation
+| Name              | Description                                                                                      |
+|-------------------|--------------------------------------------------------------------------------------------------|
 | Inferance.ipynb        | Load our trained models from saved .pth files and make inferance of the model.        |
 
 ## 6.- Project References
